@@ -15,6 +15,9 @@
         <module>cn-bugstack-design-2.3-0</module>
         <module>cn-bugstack-design-2.3-1</module>
         <module>cn-bugstack-design-2.4-0</module>
+        <module>cn-bugstack-design-2.4-1</module>
+        <module>cn-bugstack-design-2.5-0</module>
+        <module>cn-bugstack-design-2.5-1</module>
     </modules>
 
     <dependencies>

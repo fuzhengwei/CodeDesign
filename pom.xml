@@ -20,6 +20,62 @@
         <module>cn-bugstack-design-2.5-1</module>
         <module>cn-bugstack-design-2.6-0</module>
         <module>cn-bugstack-design-2.6-1</module>
+        <module>cn-bugstack-design-4.0-0</module>
+        <module>cn-bugstack-design-4.0-1</module>
+        <module>cn-bugstack-design-4.0-2</module>
+        <module>cn-bugstack-design-5.0-0</module>
+        <module>cn-bugstack-design-5.0-1</module>
+        <module>cn-bugstack-design-5.0-2</module>
+        <module>cn-bugstack-design-6.0-0</module>
+        <module>cn-bugstack-design-6.0-1</module>
+        <module>cn-bugstack-design-6.0-2</module>
+        <module>cn-bugstack-design-7.0-0</module>
+        <module>cn-bugstack-design-7.0-1</module>
+        <module>cn-bugstack-design-7.0-2</module>
+        <module>cn-bugstack-design-8.0-0</module>
+        <module>cn-bugstack-design-9.0-0</module>
+        <module>cn-bugstack-design-9.0-1</module>
+        <module>cn-bugstack-design-9.0-2</module>
+        <module>cn-bugstack-design-10.0-1</module>
+        <module>cn-bugstack-design-10.0-2</module>
+        <module>cn-bugstack-design-11.0-1</module>
+        <module>cn-bugstack-design-11.0-2</module>
+        <module>cn-bugstack-design-12.0-0</module>
+        <module>cn-bugstack-design-12.0-1</module>
+        <module>cn-bugstack-design-12.0-2</module>
+        <module>cn-bugstack-design-13.0-1</module>
+        <module>cn-bugstack-design-13.0-0</module>
+        <module>cn-bugstack-design-13.0-2</module>
+        <module>cn-bugstack-design-14.0-1</module>
+        <module>cn-bugstack-design-14.0-2</module>
+        <module>cn-bugstack-design-15.0-0</module>
+        <module>cn-bugstack-design-16.0-0</module>
+        <module>cn-bugstack-design-16.0-1</module>
+        <module>cn-bugstack-design-16.0-2</module>
+        <module>cn-bugstack-design-17.0-0</module>
+        <module>cn-bugstack-design-17.0-1</module>
+        <module>cn-bugstack-design-17.0-2</module>
+        <module>cn-bugstack-design-18.0-0</module>
+        <module>cn-bugstack-design-19.0-1</module>
+        <module>cn-bugstack-design-19.0-2</module>
+        <module>cn-bugstack-design-20.0-0</module>
+        <module>cn-bugstack-design-21.0-0</module>
+        <module>cn-bugstack-design-21.0-1</module>
+        <module>cn-bugstack-design-21.0-2</module>
+        <module>cn-bugstack-design-22.0-0</module>
+        <module>cn-bugstack-design-22.0-1</module>
+        <module>cn-bugstack-design-22.0-2</module>
+        <module>cn-bugstack-design-23.0-1</module>
+        <module>cn-bugstack-design-23.0-2</module>
+        <module>cn-bugstack-design-24.0-0</module>
+        <module>cn-bugstack-design-25.0-0</module>
+        <module>cn-bugstack-design-26.0-0</module>
+        <module>cn-bugstack-design-27.0-1</module>
+        <module>cn-bugstack-design-27.0-2</module>
+        <module>cn-bugstack-design-27.0-3</module>
+        <module>cn-bugstack-design-27.0-4</module>
+        <module>cn-bugstack-design-27.0-5</module>
+        <module>cn-bugstack-design-27.0-6</module>
     </modules>
 
     <dependencies>

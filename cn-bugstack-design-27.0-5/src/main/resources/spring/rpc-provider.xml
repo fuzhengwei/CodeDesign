@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpc="http://rpc.bugstack.cn/schema/rpc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+	  http://rpc.bugstack.cn/schema/rpc http://rpc.bugstack.cn/schema/rpc/rpc.xsd">
+
+    <!-- 注册中心 -->
+    <rpc:server id="provider_rpc" host="127.0.0.1" port="6379"/>
+
+    <rpc:provider id="helloServiceRpc" nozzle="cn.bugstack.design.rpc.export.HelloService"
+                  ref="helloService" alias="Rpc"/>
+
+</beans>

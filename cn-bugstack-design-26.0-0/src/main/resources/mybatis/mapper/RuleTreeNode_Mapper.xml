@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="org.itstack.demo.infrastructure.dao.RuleTreeNodeDao">
+<mapper namespace="cn.bugstack.design.infrastructure.dao.RuleTreeNodeDao">
 
-    <resultMap id="RuleTreeNodeResultMap" type="org.itstack.demo.infrastructure.po.RuleTreeNode">
+    <resultMap id="RuleTreeNodeResultMap" type="cn.bugstack.design.infrastructure.po.RuleTreeNode">
         <id property="id" column="id" javaType="java.lang.Long" jdbcType="BIGINT"/>
         <result property="treeId" column="treeId" javaType="java.lang.Long" jdbcType="BIGINT"/>
         <result property="nodeType" column="nodeType" javaType="java.lang.Integer" jdbcType="INTEGER"/>

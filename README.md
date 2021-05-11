@@ -1,6 +1,6 @@
 # 《重学Java设计模式》 书中对应案例源码
 
-全网阅读超500万次，持续霸榜GitHub Trending 的设计模式教程！
+[《重学Java设计模式》](https://u.jd.com/qPnzanP )，全网阅读超500万次，持续霸榜GitHub Trending 的设计模式教程！
 
 ![](https://bugstack.cn/assets/images/story/story-3-02.png)
 
